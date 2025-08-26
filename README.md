@@ -2,7 +2,7 @@
 
 <video src="https://github.com/user-attachments/assets/8cd33a48-5d3f-4c42-8315-97553d158f10"></video>
 
-This script is for spamming comments specified by you. One random comment under one video.
+This is a script for spamming comments specified by you under videos on TikTok. One random comment under one video.
 
 # Quick Start
 
