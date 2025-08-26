@@ -1,6 +1,6 @@
 # What is it?
 
-<video src="https://github.com/user-attachments/assets/8cd33a48-5d3f-4c42-8315-97553d158f10" autoplay muted loop><video>
+<video src="https://github.com/user-attachments/assets/8cd33a48-5d3f-4c42-8315-97553d158f10" autoplay muted loop></video>
 
 This script is for spamming comments specified by you. One random comment under one video.
 
