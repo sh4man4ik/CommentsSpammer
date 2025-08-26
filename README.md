@@ -21,7 +21,7 @@ npm install
 4. Run the script.
 
 ```
-npm start
+node ./spammer.js
 ```
 
 5. Once the browser and TikTok open, go to the **Feedback and help** page and log in to your account from there (red Log
