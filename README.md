@@ -2,7 +2,6 @@
 
 <video src="https://github.com/user-attachments/assets/8cd33a48-5d3f-4c42-8315-97553d158f10" autoplay muted loop><video>
 
-
 This script is for spamming comments specified by you. One random comment under one video.
 
 # Quick Start
@@ -36,8 +35,8 @@ npm start
 
 # Important to know
 
-- One comment is posted every 15 seconds.
-- Separate comments in the comments.txt file with a $ sign (as in the file).
-- While the script is running, do not click on the open browser window, as this will interrupt the script. Otherwise,
-  you will need to restart it. It is better to simply minimize the browser window and console.
-- Make sure that TikTok is open in English (the URL should be: https://www.tiktok.com/foryou?lang=en).
+- One comment is posted every **15 seconds**.
+- Separate comments in the comments.txt file with a **$** sign (as in the file).
+- While the script is running, do **not click on the open browser window**, as this will interrupt the script.
+  Otherwise, you will need to restart it. It is better to simply minimize the browser window and console.
+- Make sure that **TikTok is open in English** (the URL should be: https://www.tiktok.com/foryou?lang=en).
